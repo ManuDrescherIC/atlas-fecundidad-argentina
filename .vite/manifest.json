@@ -1,0 +1,62 @@
+{
+  "_framework-DhpakMAn.js": {
+    "file": "atlas-fecundidad-argentina/_next/static/chunks/framework-DhpakMAn.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-WU9OKPcj.js"
+    ]
+  },
+  "_rolldown-runtime-WU9OKPcj.js": {
+    "file": "atlas-fecundidad-argentina/_next/static/chunks/rolldown-runtime-WU9OKPcj.js",
+    "name": "rolldown-runtime"
+  },
+  "components/AtlasApp.tsx": {
+    "file": "atlas-fecundidad-argentina/_next/static/chunks/AtlasApp-B8TRz10T.js",
+    "name": "AtlasApp",
+    "src": "components/AtlasApp.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-WU9OKPcj.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-DhpakMAn.js"
+    ],
+    "dynamicImports": [
+      "node_modules/.pnpm/qrcode@1.5.4/node_modules/qrcode/lib/browser.js"
+    ]
+  },
+  "node_modules/.pnpm/qrcode@1.5.4/node_modules/qrcode/lib/browser.js": {
+    "file": "atlas-fecundidad-argentina/_next/static/chunks/browser-0kDgWoI_.js",
+    "name": "browser",
+    "src": "node_modules/.pnpm/qrcode@1.5.4/node_modules/qrcode/lib/browser.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-WU9OKPcj.js"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.3_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_a7f841870a226c916fdba5fc40bdde46/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "atlas-fecundidad-argentina/_next/static/chunks/layout-segment-context-FPzCHyd1.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.3_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_a7f841870a226c916fdba5fc40bdde46/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-WU9OKPcj.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-DhpakMAn.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "atlas-fecundidad-argentina/_next/static/chunks/index-BssoKyfI.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-WU9OKPcj.js",
+      "_framework-DhpakMAn.js"
+    ],
+    "dynamicImports": [
+      "components/AtlasApp.tsx",
+      "virtual:vinext-app-browser-entry",
+      "node_modules/.pnpm/vinext@1.0.0-beta.3_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_a7f841870a226c916fdba5fc40bdde46/node_modules/vinext/dist/shims/layout-segment-context.js"
+    ]
+  }
+}
