@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "components/AtlasApp.tsx": {
-    "file": "atlas-fecundidad-argentina/_next/static/chunks/AtlasApp-Cqp94aJg.js",
+    "file": "atlas-fecundidad-argentina/_next/static/chunks/AtlasApp-B7IcfFZB.js",
     "name": "AtlasApp",
     "src": "components/AtlasApp.tsx",
     "isDynamicEntry": true,
@@ -34,7 +34,7 @@
     ]
   },
   "node_modules/.pnpm/vinext@1.0.0-beta.3_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_a7f841870a226c916fdba5fc40bdde46/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "atlas-fecundidad-argentina/_next/static/chunks/layout-segment-context-CFUJp6r2.js",
+    "file": "atlas-fecundidad-argentina/_next/static/chunks/layout-segment-context-Cjp5T016.js",
     "name": "layout-segment-context",
     "src": "node_modules/.pnpm/vinext@1.0.0-beta.3_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_a7f841870a226c916fdba5fc40bdde46/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -45,7 +45,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "atlas-fecundidad-argentina/_next/static/chunks/index-DspuY_eT.js",
+    "file": "atlas-fecundidad-argentina/_next/static/chunks/index-tukWMgEQ.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
