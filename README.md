@@ -1,3 +1,3 @@
-# Atlas de fecundidad argentina (2010-2022)
+# Argentina Fertility Atlas / Atlas de fecundidad argentina
 
-Versión compilada para GitHub Pages. Contiene únicamente la interfaz y los datos agregados autorizados.
+Bilingual static edition. Public interface and authorized aggregate data only.
